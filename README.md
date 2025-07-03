@@ -1,4 +1,3 @@
-# COVID_analysis
 # COVID-19 Data Analysis and Visualization
 
 This project is a Python-based analysis and visualization of COVID-19 data using the `pandas` and `plotly` libraries. It processes raw and transformed datasets to provide insights into the spread and impact of the COVID-19 pandemic.
